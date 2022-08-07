@@ -1,1 +1,1 @@
-https://curriculo-gustavosilverio.vercel.app
+curriculo-gustavosilverio.vercel.app
